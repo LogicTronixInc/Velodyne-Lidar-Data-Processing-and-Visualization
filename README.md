@@ -18,5 +18,7 @@ make
 * This will create `test_PacketDecoder` app along with libraries in the build directory.
 
 * Now connect the Lidar to the host machine through ethernet and setup the host PC network to same domain as Lidar.
+![Host IP Configs](/docs/images/host_ip_setings.png)
 
 * Now run the `test_PacketDecoder` app to view the Lidar data
+![Output View](/docs/images/app_output.png)
